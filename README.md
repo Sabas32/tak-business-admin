@@ -15,6 +15,14 @@ npm install
 npm run dev
 ```
 
+## Test accounts (development only)
+
+These accounts are defined in `src/data/mockData.js` under `TEST_ADMINS`.
+
+- superadmin / super123 (Super Admin)
+- finance / finance123 (Finance Admin)
+- support / support123 (Support Admin)
+
 ## Scripts
 
 - `npm run dev` - start the development server
